@@ -11,6 +11,8 @@
 
 ![启动.png](https://i.loli.net/2019/01/18/5c41cee41a2fa.png)
 
+之后再8080端口查看这个web app
+
 ### 2. 静态文件访问
 
 ![访问静态文件.png](https://i.loli.net/2019/01/18/5c41cee41a160.png)
@@ -25,10 +27,16 @@
 
 ![InputUser.png](https://i.loli.net/2019/01/18/5c41cee3f29ac.png)
 
+点击Login提交表单，然后进入signin界面查看表单
+
 ![产生表单.png](https://i.loli.net/2019/01/18/5c41cee41857e.png)
 
 ### 4. 对未处理返回501错误
 
+在服务器后端，即cmd中，查看服务器信息
+
 ![501.png](https://i.loli.net/2019/01/18/5c41cee3c8812.png)
+
+在web界面的信息
 
 ![InDevelop.png](https://i.loli.net/2019/01/18/5c41cee3c8b5f.png)
